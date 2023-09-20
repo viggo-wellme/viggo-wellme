@@ -3,9 +3,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Email: wellmev.viggo@gmail.com
 
 # 🍚 Rice Showcase
+Purple BSPWM rice on Debian 💜
+- OS: Debian
+- Window manager: BSPWM
+- Compositor: picom
+- Terminal: alacritty
+- Shell: fish
+- Fetch: nitch
+- [Dotfiles](https://github.com/viggo-wellme/purple-bspwm-rice)
+![Purple dwm rice](https://i.redd.it/milwhqct89pb1.png)
+
 My DWM rice on Gentoo 🐧
 - OS: Gentoo
-- Window Manager: DWM
+- Window manager: DWM
 - Compositor: picom
 - Terminal: alacritty
 - Shell: Fish
@@ -17,7 +27,7 @@ I custom-made the bar using the [status2d](https://dwm.suckless.org/patches/stat
 
 BSPWM rice on Debian 🍥
 - OS: Debian
-- Window Manager: BSPWM
+- Window manager: BSPWM
 - Bar: Polybar
 - Compositor: picom
 - Terminal: alacritty
